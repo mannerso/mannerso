@@ -2,7 +2,6 @@
 - 👀 I’m interested in creating applications that bring changes to peoples life.
 - 🌱 I’m currently learning to code (Full Stack) at the Univesity of Utah, while working as a support specialist for a health care institution.
 - 💞️ I’m looking to collaborate on reserch projects that agin, affect people lives directly or inderectly.
-- 📫 Reach me via e-mail at nelson-de-carvalho@hotmail.com
 
 <!---
 mannerso/mannerso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
